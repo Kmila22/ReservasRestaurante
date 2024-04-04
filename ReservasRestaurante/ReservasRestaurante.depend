@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1712185755 source:c:\users\kmi04\documents\reservasrestaurante\main.cpp
+	<iostream>
+	"Cliente.h"
+	"ClienteVIP.h"
+	"Mesa.h"
+	"Recepcion.h"
+
+1712163154 source:c:\users\kmi04\documents\reservasrestaurante\src\clientevip.cpp
+	"ClienteVIP.h"
+
+1712161964 c:\users\kmi04\documents\reservasrestaurante\include\clientevip.h
+	"Cliente.h"
+
+1712161901 source:c:\users\kmi04\documents\reservasrestaurante\src\cliente.cpp
+	"Cliente.h"
+
+1712161901 c:\users\kmi04\documents\reservasrestaurante\include\cliente.h
+	<string>
+
+1712185784 source:c:\users\kmi04\documents\reservasrestaurante\src\recepcion.cpp
+	"Recepcion.h"
+	<iostream>
+	<algorithm>
+
+1712185720 c:\users\kmi04\documents\reservasrestaurante\include\recepcion.h
+	"Cliente.h"
+	"Mesa.h"
+	<vector>
+
+1712172456 c:\users\kmi04\documents\reservasrestaurante\include\mesa.h
+	"Cliente.h"
+	<string>
+
+1712172507 source:c:\users\kmi04\documents\reservasrestaurante\src\mesa.cpp
+	"Mesa.h"
+
